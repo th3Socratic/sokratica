@@ -1,0 +1,2 @@
+# sokratica
+Web personal
